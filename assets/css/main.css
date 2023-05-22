@@ -262,6 +262,9 @@ section {
   .header .btn-getstarted:focus {
     margin-right: 50px;
   }
+  .phones-wrap{
+    display: none;
+  }
 }
 
 /*--------------------------------------------------------------
@@ -3204,4 +3207,8 @@ h1{
 
 .footer-section{
   justify-content: space-between;
+}
+
+.featured-center{
+  justify-content: center;
 }
